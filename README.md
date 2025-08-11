@@ -1,2 +1,2 @@
-# My-AI-
+# My-AI-Journey
 Artificial Intelligence
